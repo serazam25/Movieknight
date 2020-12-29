@@ -1,2 +1,2 @@
 # Movieknight
-A movie management based web application tosearch movie, book seats and pay.
+A movie management based web application to search movie, book seats and pay.
